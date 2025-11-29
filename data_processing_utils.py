@@ -24,7 +24,7 @@ def query_fed_prints_by_author(author_name):
     }
     response = requests.get(url, params=params, headers=headers)
     data = response.json()
-    print(len(data["records"]))
+    print("Total Records", len(data["records"]))
     return data
 
 def get_author_short_name(author_name):
@@ -86,7 +86,7 @@ def retrieve_remaining_ids(author_name, data):
             continue
 
         for file in record["file"]:
-            print("file", file)
+            #print("file", file)
 
             url = file["fileurl"]
             if url.endswith(".pdf"):
@@ -94,8 +94,8 @@ def retrieve_remaining_ids(author_name, data):
 
         idx += 1
 
-    print(idx)
-    print(len(url_links))
+    print("Total Remaining Files", idx)
+    print("Total PDF to Process", len(url_links))
     return url_links
 
 
@@ -144,17 +144,41 @@ def extract_pdf_text(pdf_bytes):
         print("[ERROR] Failed parsing PDF:", e)
         return ""
 
+import json
+import os
+from tqdm import tqdm
 
 def pdfs_to_json(url_list, output_json="speeches.json"):
-    results = []
+
+    if os.path.exists(output_json):
+        with open(output_json, "r", encoding="utf-8") as f:
+            try:
+                existing_data = json.load(f)
+                if not isinstance(existing_data, list):
+                    print("⚠️ Existing JSON is not a list. Starting fresh.")
+                    existing_data = []
+            except json.JSONDecodeError:
+                print("⚠️ Existing JSON is corrupted. Starting fresh.")
+                existing_data = []
+    else:
+        existing_data = []
+
+    existing_ids = {entry["id"] for entry in existing_data}
+
+    new_entries = []
 
     for url_id, url in tqdm(url_list.items(), desc="Processing PDFs"):
+        if url_id in existing_ids:
+            print(f"Skipping {url_id}: already exists in JSON.")
+            continue
+
         pdf_bytes = download_pdf(url)
         if pdf_bytes is None:
             continue
 
         text = extract_pdf_text(pdf_bytes)
-        results.append({
+
+        new_entries.append({
             "id": url_id,
             "url": url,
             "text": text,
@@ -162,8 +186,10 @@ def pdfs_to_json(url_list, output_json="speeches.json"):
             "date": extract_date(text)
         })
 
-    # save as JSON
-    with open(output_json, "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
+    combined = existing_data + new_entries
 
-    print(f"\nSaved {len(results)} entries → {output_json}")
+    with open(output_json, "w", encoding="utf-8") as f:
+        json.dump(combined, f, indent=2, ensure_ascii=False)
+
+    print(f"\nAppended {len(new_entries)} new entries → {output_json}")
+    print(f"Total entries now: {len(combined)}")
