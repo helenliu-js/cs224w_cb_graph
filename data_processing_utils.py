@@ -165,13 +165,13 @@ def retrieve_remaining_ids(author_name, data):
                 if "pdf" not in url_links:
                     url_links["pdf"] = {}
                 url_links['pdf'][record["id"]] = url
-
-            for regional_bank in _regional_banks():
-                if regional_bank in url:
-                    bank_key = regional_bank.split(".")[1]
-                    if bank_key not in url_links:
-                        url_links[bank_key] = {}
-                    url_links[bank_key][record["id"]] = url
+            else:
+                for regional_bank in _regional_banks():
+                    if regional_bank in url:
+                        bank_key = regional_bank.split(".")[1]
+                        if bank_key not in url_links:
+                            url_links[bank_key] = {}
+                        url_links[bank_key][record["id"]] = url
 
             idx += 1
 
@@ -270,7 +270,7 @@ def pdfs_to_json(url_list, output_json="speeches.json"):
     print(f"Total entries now: {len(combined)}")
 
 
-def parse_board_html(url):
+def extract_board_html(url):
 
     r = requests.get(url)
     r.raise_for_status()
@@ -302,17 +302,15 @@ def parse_board_html(url):
     }
 
 
-def parse_nyfed_html(url):
+def extract_nyfed_html(url):
 
     r = requests.get(url)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # Date or subtitle block
     date_div = soup.find("div", class_="ts-contact-info")
     date_text = date_div.get_text(" ", strip=True) if date_div else ""
 
-    # Main content container
     article_div = soup.find("div", class_="ts-article-text")
 
     paragraphs = []
@@ -366,7 +364,6 @@ def extract_bostonfed_html(url):
 
 def html_speeches_to_json(url_dict, url_type, output_json="speeches.json"):
 
-    # --- Load existing JSON ---
     if os.path.exists(output_json):
         with open(output_json, "r", encoding="utf-8") as f:
             try:
@@ -382,7 +379,6 @@ def html_speeches_to_json(url_dict, url_type, output_json="speeches.json"):
 
     new_entries = []
 
-    # --- Loop over HTML URLs ---
     for url_id, url in tqdm(url_dict.items(), desc="Processing HTML Speeches"):
 
         if url_id in existing_ids:
@@ -390,9 +386,9 @@ def html_speeches_to_json(url_dict, url_type, output_json="speeches.json"):
             continue
 
         if url_type == "newyorkfed":
-            parsed = parse_nyfed_html(url)
+            parsed = extract_nyfed_html(url)
         elif url_type == "federalreserve":
-            parsed = parse_board_html(url)
+            parsed = extract_board_html(url)
         elif url_type == "dallasfed":
             parsed = extract_dallasfed_html(url)
         elif url_type == "chicagofed":
