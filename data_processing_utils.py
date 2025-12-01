@@ -140,7 +140,7 @@ def retrieve_remaining_ids(author_name, data):
             "fedlwp", "fedhwp", "fedcwp", "fedlrv", "fedgfn", "fedgfe",
             "fedlre", "fedlar", "fedcer", "fedles", "fedlps", "fedcwq",
             "fedfci", "fedkcc", "fedfmo", "fedmsr", "fedmwp", "fedmem",
-            "fednls", "fedlcb", "fedgsq", "fedgrb", "fedbcp", "fedlpr",
+            "fednls", "fedlcb", "fedgrb", "fedbcp", "fedlpr",
             "fedfar", "fedaer", "fedgpr", "fedfel"]
 
         # Skip if any pattern matches
