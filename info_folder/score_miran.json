@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fedgsq:101839",
+    "gpt-5": {
+      "Fed Funds Rate": -0.9,
+      "Labor Market": -0.4,
+      "Inflation": -0.6,
+      "Real Activity": -0.3,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:102076",
+    "gpt-5": {
+      "Fed Funds Rate": -0.6,
+      "Labor Market": 0.0,
+      "Inflation": -0.2,
+      "Real Activity": -0.1,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:102128",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.2,
+      "Balance Sheet": -0.3
+    }
+  }
+]
