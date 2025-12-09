@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "fedgsq:22563",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:100083",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:87470",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.8,
+      "Inflation": -0.4,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.7,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96212",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.6,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101411",
+    "gpt-5": {
+      "Fed Funds Rate": -0.9,
+      "Labor Market": -0.8,
+      "Inflation": -0.7,
+      "Real Activity": -0.7,
+      "Financial Stability": -0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95805",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.6,
+      "Balance Sheet": 0.5
+    }
+  },
+  {
+    "id": "fedgsq:95632",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.7,
+      "Inflation": 0.9,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:97103",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.7,
+      "Inflation": 0.8,
+      "Real Activity": 0.5,
+      "Financial Stability": -0.2,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:96332",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.6,
+      "Inflation": 0.6,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95850",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.3,
+      "Financial Stability": 0.2,
+      "Balance Sheet": -0.2
+    }
+  },
+  {
+    "id": "fedgsq:98438",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.6,
+      "Inflation": 0.85,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:101934",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93760",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.8,
+      "Inflation": 0.95,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.9
+    }
+  },
+  {
+    "id": "fedgsq:95813",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.6,
+      "Inflation": 0.95,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:97620",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95655",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93038",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96371",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.7,
+      "Inflation": 0.9,
+      "Real Activity": 0.4,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:97024",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97859",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.7,
+      "Inflation": 0.6,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:95833",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.8,
+      "Inflation": 0.9,
+      "Real Activity": -0.1,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:22952",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97724",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.8,
+      "Inflation": 0.5,
+      "Real Activity": 0.7,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:97385",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.9
+    }
+  },
+  {
+    "id": "fedgsq:98807",
+    "gpt-5": {
+      "Fed Funds Rate": -0.2,
+      "Labor Market": 0.6,
+      "Inflation": 0.7,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98907",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101952",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:94655",
+    "gpt-5": {
+      "Fed Funds Rate": 0.2,
+      "Labor Market": 0.6,
+      "Inflation": 0.6,
+      "Real Activity": 0.3,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96525",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.6,
+      "Inflation": 0.7,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:98390",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93162",
+    "gpt-5": {
+      "Fed Funds Rate": 0.2,
+      "Labor Market": 0.1,
+      "Inflation": 0.7,
+      "Real Activity": 0.2,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:96526",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.7,
+      "Inflation": 0.8,
+      "Real Activity": 0.4,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:97905",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:87530",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97099",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.4,
+      "Inflation": 0.8,
+      "Real Activity": 0.7,
+      "Financial Stability": 0.6,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101136",
+    "gpt-5": {
+      "Fed Funds Rate": -0.8,
+      "Labor Market": -0.2,
+      "Inflation": -0.6,
+      "Real Activity": -0.2,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:96391",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:87380",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.8,
+      "Inflation": -0.6,
+      "Real Activity": 0.6,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98180",
+    "gpt-5": {
+      "Fed Funds Rate": 0.6,
+      "Labor Market": 0.7,
+      "Inflation": 0.9,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:22624",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:99635",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93100",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.7,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97026",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.4,
+      "Inflation": 0.9,
+      "Real Activity": 0.7,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96153",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": -0.3,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:102005",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95795",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98255",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.7,
+      "Inflation": 0.8,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.4
+    }
+  },
+  {
+    "id": "fedgsq:97172",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93328",
+    "gpt-5": {
+      "Fed Funds Rate": 0.4,
+      "Labor Market": 0.5,
+      "Inflation": 0.8,
+      "Real Activity": 0.4,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93410",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": -0.3,
+      "Inflation": 0.0,
+      "Real Activity": -0.1,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98440",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101890",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:90394",
+    "gpt-5": {
+      "Fed Funds Rate": -0.8,
+      "Labor Market": -0.6,
+      "Inflation": -0.5,
+      "Real Activity": 0.3,
+      "Financial Stability": -0.2,
+      "Balance Sheet": -0.9
+    }
+  },
+  {
+    "id": "fedgsq:94574",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.7,
+      "Inflation": 0.95,
+      "Real Activity": -0.1,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:96016",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96599",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.5,
+      "Inflation": 0.0,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95803",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98874",
+    "gpt-5": {
+      "Fed Funds Rate": 0.4,
+      "Labor Market": 0.6,
+      "Inflation": 0.7,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:98442",
+    "gpt-5": {
+      "Fed Funds Rate": 0.6,
+      "Labor Market": 0.5,
+      "Inflation": 0.7,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:98034",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.5,
+      "Inflation": 0.7,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:88607",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98460",
+    "gpt-5": {
+      "Fed Funds Rate": 0.75,
+      "Labor Market": 0.5,
+      "Inflation": 0.85,
+      "Real Activity": -0.1,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:22692",
+    "gpt-5": {
+      "Fed Funds Rate": -0.3,
+      "Labor Market": 0.0,
+      "Inflation": -0.7,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95796",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": 0.3,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95817",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98576",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:99014",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98960",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97745",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95815",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": -0.3,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:22379",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95794",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.8,
+      "Inflation": 0.95,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:96006",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97754",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98242",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98296",
+    "gpt-5": {
+      "Fed Funds Rate": 0.5,
+      "Labor Market": 0.3,
+      "Inflation": 0.7,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.9
+    }
+  },
+  {
+    "id": "fedgsq:99147",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": 0.7,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98846",
+    "gpt-5": {
+      "Fed Funds Rate": -0.3,
+      "Labor Market": 0.5,
+      "Inflation": 0.7,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:22777",
+    "gpt-5": {
+      "Fed Funds Rate": -0.2,
+      "Labor Market": 0.0,
+      "Inflation": -0.6,
+      "Real Activity": -0.5,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98004",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98699",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.2,
+      "Inflation": 0.7,
+      "Real Activity": 0.1,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.8
+    }
+  },
+  {
+    "id": "fedgsq:88831",
+    "gpt-5": {
+      "Fed Funds Rate": -0.6,
+      "Labor Market": -0.7,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98528",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95826",
+    "gpt-5": {
+      "Fed Funds Rate": 0.9,
+      "Labor Market": 0.7,
+      "Inflation": 0.85,
+      "Real Activity": 0.3,
+      "Financial Stability": 0.6,
+      "Balance Sheet": 0.75
+    }
+  },
+  {
+    "id": "fedgsq:95834",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:22560",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101843",
+    "gpt-5": {
+      "Fed Funds Rate": -0.9,
+      "Labor Market": -0.85,
+      "Inflation": -0.65,
+      "Real Activity": -0.3,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.85
+    }
+  },
+  {
+    "id": "fedgsq:88816",
+    "gpt-5": {
+      "Fed Funds Rate": -0.8,
+      "Labor Market": -0.6,
+      "Inflation": -0.6,
+      "Real Activity": -0.3,
+      "Financial Stability": 0.4,
+      "Balance Sheet": -0.7
+    }
+  },
+  {
+    "id": "fedgsq:22837",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": -0.1,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": -0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97174",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.0,
+      "Inflation": 0.6,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:88647",
+    "gpt-5": {
+      "Fed Funds Rate": -0.7,
+      "Labor Market": -0.7,
+      "Inflation": -0.5,
+      "Real Activity": -0.5,
+      "Financial Stability": 0.3,
+      "Balance Sheet": -0.8
+    }
+  },
+  {
+    "id": "fedgsq:99514",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96031",
+    "gpt-5": {
+      "Fed Funds Rate": 0.3,
+      "Labor Market": 0.6,
+      "Inflation": 0.6,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97251",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.5,
+      "Inflation": 0.8,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:98535",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:93272",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.4,
+      "Inflation": 0.0,
+      "Real Activity": 0.1,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:95738",
+    "gpt-5": {
+      "Fed Funds Rate": 0.1,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:98857",
+    "gpt-5": {
+      "Fed Funds Rate": 0.5,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:98216",
+    "gpt-5": {
+      "Fed Funds Rate": 0.4,
+      "Labor Market": 0.0,
+      "Inflation": 0.6,
+      "Real Activity": -0.2,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98654",
+    "gpt-5": {
+      "Fed Funds Rate": 0.5,
+      "Labor Market": 0.1,
+      "Inflation": 0.7,
+      "Real Activity": 0.2,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:95839",
+    "gpt-5": {
+      "Fed Funds Rate": 0.2,
+      "Labor Market": 0.0,
+      "Inflation": 0.1,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:101840",
+    "gpt-5": {
+      "Fed Funds Rate": -0.9,
+      "Labor Market": -0.8,
+      "Inflation": -0.7,
+      "Real Activity": -0.5,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:97299",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.4,
+      "Inflation": 0.7,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.5
+    }
+  },
+  {
+    "id": "fedgsq:96968",
+    "gpt-5": {
+      "Fed Funds Rate": 0.1,
+      "Labor Market": -0.1,
+      "Inflation": 0.5,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98126",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98020",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:99511",
+    "gpt-5": {
+      "Fed Funds Rate": 0.6,
+      "Labor Market": 0.6,
+      "Inflation": 0.8,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96967",
+    "gpt-5": {
+      "Fed Funds Rate": 0.8,
+      "Labor Market": 0.4,
+      "Inflation": 0.85,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101914",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98779",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:98612",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:96969",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": -0.2,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:22714",
+    "gpt-5": {
+      "Fed Funds Rate": -0.3,
+      "Labor Market": 0.0,
+      "Inflation": -0.6,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.0,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97732",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.2,
+      "Inflation": 0.0,
+      "Real Activity": 0.4,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:97910",
+    "gpt-5": {
+      "Fed Funds Rate": 0.7,
+      "Labor Market": 0.8,
+      "Inflation": 0.6,
+      "Real Activity": 0.6,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:99563",
+    "gpt-5": {
+      "Fed Funds Rate": 0.4,
+      "Labor Market": 0.4,
+      "Inflation": 0.4,
+      "Real Activity": 0.4,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.7
+    }
+  },
+  {
+    "id": "fedgsq:97551",
+    "gpt-5": {
+      "Fed Funds Rate": 0.45,
+      "Labor Market": 0.6,
+      "Inflation": 0.4,
+      "Real Activity": 0.3,
+      "Financial Stability": -0.2,
+      "Balance Sheet": 0.6
+    }
+  },
+  {
+    "id": "fedgsq:22836",
+    "gpt-5": {
+      "Fed Funds Rate": 0.1,
+      "Labor Market": 0.5,
+      "Inflation": 0.0,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.5,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101443",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:101311",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:99512",
+    "gpt-5": {
+      "Fed Funds Rate": 0.6,
+      "Labor Market": 0.3,
+      "Inflation": 0.8,
+      "Real Activity": 0.6,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.9
+    }
+  },
+  {
+    "id": "fedgsq:94654",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:99691",
+    "gpt-5": {
+      "Fed Funds Rate": 0.4,
+      "Labor Market": 0.3,
+      "Inflation": 0.2,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.3,
+      "Balance Sheet": 0.2
+    }
+  },
+  {
+    "id": "fedgsq:97416",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:99182",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": 0.0,
+      "Financial Stability": -0.1,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:89074",
+    "gpt-5": {
+      "Fed Funds Rate": -0.8,
+      "Labor Market": -0.6,
+      "Inflation": -0.6,
+      "Real Activity": 0.2,
+      "Financial Stability": 0.2,
+      "Balance Sheet": -0.9
+    }
+  },
+  {
+    "id": "fedgsq:92806",
+    "gpt-5": {
+      "Fed Funds Rate": -0.6,
+      "Labor Market": -0.6,
+      "Inflation": 0.4,
+      "Real Activity": 0.5,
+      "Financial Stability": 0.3,
+      "Balance Sheet": -0.6
+    }
+  },
+  {
+    "id": "fedgsq:89973",
+    "gpt-5": {
+      "Fed Funds Rate": -0.6,
+      "Labor Market": -0.7,
+      "Inflation": 0.0,
+      "Real Activity": -0.2,
+      "Financial Stability": -0.4,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:89903",
+    "gpt-5": {
+      "Fed Funds Rate": -0.5,
+      "Labor Market": -0.5,
+      "Inflation": -0.3,
+      "Real Activity": -0.4,
+      "Financial Stability": 0.2,
+      "Balance Sheet": -0.4
+    }
+  },
+  {
+    "id": "fedgsq:89119",
+    "gpt-5": {
+      "Fed Funds Rate": 0.0,
+      "Labor Market": 0.0,
+      "Inflation": 0.0,
+      "Real Activity": -0.1,
+      "Financial Stability": 0.2,
+      "Balance Sheet": 0.0
+    }
+  },
+  {
+    "id": "fedgsq:91397",
+    "gpt-5": {
+      "Fed Funds Rate": -0.7,
+      "Labor Market": 0.2,
+      "Inflation": -0.5,
+      "Real Activity": 0.8,
+      "Financial Stability": 0.2,
+      "Balance Sheet": -0.8
+    }
+  }
+]
