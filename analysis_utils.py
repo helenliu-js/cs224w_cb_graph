@@ -4,11 +4,14 @@ from pathlib import Path
 from datetime import datetime, date
 import functools
 import pandas as pd
+from collections import defaultdict
 
 DATA_DIR = Path("data")
 SPEECH_FOLDER = DATA_DIR / "text_data/"
 TOPIC_SCORE_FOLDER = DATA_DIR / "topic_scores/"
 RATES_FILE = DATA_DIR / "price_data/2025-10-26 Fed Funds 12M 6M Historical Swap Rates.xlsx"
+EMBEDDING_FILE = DATA_DIR / "speeches_with_embeddings.json"
+
 START_DATE = datetime(2018, 6, 1)
 
 def load_topic_scores_by_sid(path=TOPIC_SCORE_FOLDER):
@@ -111,11 +114,36 @@ def load_speeches(path=SPEECH_FOLDER):
             }
     return speeches
 
+
+@functools.lru_cache(maxsize=None)
+def load_speeches_with_embeddings(path=EMBEDDING_FILE):
+
+    with open(path, "r", encoding="utf-8") as f:
+        raw = json.load(f)
+
+    return raw
+
 def load_rates(path=RATES_FILE):
+
     df = pd.read_excel(path)
     df["Date"] = df["Date"].apply(lambda x: str(x).split(" ")[0])
     df["Date"] = df["Date"].apply(parse_date)
     df = df.set_index("Date").sort_index()
     df = df[["Rate"]]
     df.index = pd.to_datetime(df.index)
+    df["Rate_Change"] = df["Rate"].diff()
+
+    speech_by_dates = group_speeches_by_date(load_speeches())
+    dates = pd.to_datetime(list(speech_by_dates.keys()))
+
+    df = df.reindex(df.index.union(dates))
+    df = df.ffill()
+    df = df.loc[dates]
     return df
+
+def group_speeches_by_date(speeches):
+    speeches_by_date = defaultdict(list)
+    for sid, info in speeches.items():
+        d = info["date"]
+        speeches_by_date[d].append(sid)
+    return speeches_by_date
