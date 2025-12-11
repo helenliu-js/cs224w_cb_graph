@@ -146,4 +146,7 @@ def group_speeches_by_date(speeches):
     for sid, info in speeches.items():
         d = info["date"]
         speeches_by_date[d].append(sid)
+    speeches_by_date = dict(sorted(speeches_by_date.items(), key=lambda x: x[0]))
     return speeches_by_date
+
+load_rates_ = load_rates()
