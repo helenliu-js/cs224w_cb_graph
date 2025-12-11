@@ -149,4 +149,32 @@ def group_speeches_by_date(speeches):
     speeches_by_date = dict(sorted(speeches_by_date.items(), key=lambda x: x[0]))
     return speeches_by_date
 
-load_rates_ = load_rates()
+# Build global_idx the same way you did before building graphs
+def build_global_indices(speeches, topic_scores, rates_df):
+    # 1) Authors
+    author_names = sorted({v["author"] for v in speeches.values()})
+    author2idx = {name: i for i, name in enumerate(author_names)}
+
+    # 2) Topics
+    topic_names = set()
+    for sid, topics in topic_scores.items():
+        for tname in topics.keys():
+            topic_names.add(tname)
+    topic_names = sorted(topic_names)
+    topic2idx = {name: i for i, name in enumerate(topic_names)}
+
+    # 3) Speech ids
+    speech_ids = sorted(speeches.keys())
+    speech2idx = {sid: i for i, sid in enumerate(speech_ids)}
+
+    # 4) Dates
+    all_dates = sorted(set(rates_df.index))  # dates where we have rates
+    date2idx = {d: i for i, d in enumerate(all_dates)}
+
+    return {
+        "author2idx": author2idx,
+        "topic2idx": topic2idx,
+        "speech2idx": speech2idx,
+        "date2idx": date2idx,
+        "dates": all_dates,
+    }
