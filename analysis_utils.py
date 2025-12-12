@@ -178,3 +178,8 @@ def build_global_indices(speeches, topic_scores, rates_df):
         "date2idx": date2idx,
         "dates": all_dates,
     }
+
+speech_dates = group_speeches_by_date(load_speeches())
+speech_dates = list(speech_dates.keys())
+print(min(speech_dates), max(speech_dates)
+      )
